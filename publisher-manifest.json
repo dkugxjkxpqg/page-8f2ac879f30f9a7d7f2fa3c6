@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "4f358eb726ef2ca6386cc00c",
+  "owner": "dkugxjkxpqg",
+  "repo": "page-8f2ac879f30f9a7d7f2fa3c6",
+  "title": "八方云",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "8f2ac879f30f9a7d7f2fa3c6",
+      "a": "八方云",
+      "b": "2027最新官网",
+      "entity": "八方云",
+      "brand": "八方云",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "dba8a9a5b5a688bb5427aa88994494b6ff3d8a88cecd316c83a493c06a3f8695",
+      "content": {
+        "primary_entity": "八方云",
+        "keyword1": "八方云",
+        "keyword2": "2027最新官网",
+        "content": {
+          "AI_HERO_SUBTITLE": "三档流量 按设备选套餐",
+          "AI_HERO_INTRO": "八方云提供按月或按年计费的订阅方案，覆盖基础版、旗舰版与团队版三档流量额度。设备数从 3 台到 20 台不等，旗舰版针对游戏与流媒体做了线路优化，团队版支持企业定制路由。",
+          "AI_VISUAL_TITLE": "八方云套餐怎么选",
+          "AI_HIGHLIGHT_1": "三档流量 按需选",
+          "AI_HIGHLIGHT_2": "旗舰版游戏加速优化",
+          "AI_HIGHLIGHT_3": "年付折算更省",
+          "AI_DESCRIPTION": "，覆盖三档订阅方案，按每月流量与同时在线设备数区分：基础版 ¥15/月 含 100GB 与 3 台设备；旗舰版 ¥35/月 含 300GB、5 台设备及 IPLC 专线游戏加速；团队版 ¥85/月 含 1000GB、20 台设备与定制路由。年付分别约 ¥150、¥350、¥850，适合按月测试后再决定是否转为长期订阅。",
+          "AI_FEATURES_TITLE": "套餐选择的三个维度",
+          "AI_FEATURES_INTRO": "先看流量、再看设备数、最后看是否需要专线优化。",
+          "AI_FEATURE_TITLE_1": "流量额度",
+          "AI_FEATURE_TEXT_1": "100GB 适合单人或轻度使用；300GB 适合日常多设备；1000GB 适合团队协作。",
+          "AI_FEATURE_TITLE_2": "设备数量",
+          "AI_FEATURE_TEXT_2": "基础版 3 台、旗舰版 5 台、团队版 20 台，同时在线数量随套餐向上递增。",
+          "AI_FEATURE_TITLE_3": "订阅周期",
+          "AI_FEATURE_TEXT_3": "月付灵活，年付折算更低；不确定用量时可先按月体验再切换年付。",
+          "AI_PLANS_TITLE": "三档套餐对比",
+          "AI_PLANS_INTRO": "基础版 ¥15/月 含 100GB 与 3 台设备；旗舰版 ¥35/月 含 300GB、5 台设备及 IPLC 专线；团队版 ¥85/月 含 1000GB 与 20 台设备。",
+          "AI_GUIDE_TITLE": "开始使用三步",
+          "AI_GUIDE_INTRO": "先确认用量与设备数，再按客户端文档完成订阅配置。",
+          "AI_STEP_TITLE_1": "确认套餐",
+          "AI_STEP_TEXT_1": "按每月流量与同时在线设备数，对照基础版、旗舰版或团队版选择。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_2": "核对自己使用的系统与客户端类型，确认所选套餐能满足设备数量。",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_STEP_TEXT_3": "按所使用客户端的文档导入订阅信息，完成节点与代理设置。",
+          "AI_CLIENTS_TITLE": "按设备选客户端",
+          "AI_CLIENTS_INTRO": "不同系统对应不同客户端，选择自己设备可用且文档完整的版本即可，配置前先确认套餐支持的同时在线设备数。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_CLOSING_TITLE": "先定用量 再选套餐",
+          "AI_CLOSING_TEXT": "从三档套餐中挑出匹配自己设备数与流量的方案，按月体验后再决定年付。",
+          "AI_FAQ_ANSWER_1": "基础版 15 元每月，旗舰版 35 元每月，团队版 85 元每月。按年付分别约 150 元、350 元和 850 元每年，可根据流量和同时在线设备数需要选择。",
+          "AI_FAQ_ANSWER_2": "基础版支持 3 台设备，旗舰版支持 5 台，团队版支持 20 台同时在线。若设备较多，建议选择设备上限更高的套餐，以便手机、电脑与平板共同使用。",
+          "AI_FAQ_ANSWER_3": "旗舰版提供 IPLC 专线并对游戏加速优化，团队版提供 VIP 专属高带宽节点；基础版为普通线路节点池。对延迟和带宽有更高要求时，可优先考虑旗舰版或团队版。",
+          "AI_FAQ_ANSWER_4": "可以。客户端兼容情况随版本变化，建议根据设备系统选择常见客户端，并参照对应客户端的订阅导入文档完成配置，通常只需复制订阅地址后一键更新。",
+          "AI_FAQ_ANSWER_5": "按年付比按月付更划算，例如基础版年付 150 元、旗舰版年付 350 元、团队版年付 850 元。若长期使用，年付方案可减少续费次数并降低月均成本。",
+          "AI_FAQ_QUESTION_1": "八方云套餐价格分别是多少？",
+          "AI_FAQ_QUESTION_2": "每个套餐支持几台设备同时在线？",
+          "AI_FAQ_QUESTION_3": "流媒体和游戏加速该选哪个套餐？",
+          "AI_FAQ_QUESTION_4": "手机和电脑可以共用同一个八方云订阅吗？",
+          "AI_FAQ_QUESTION_5": "按年付和按月付哪个更划算？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "xn--9kq78xez7a.com",
+    "host": "xn--9kq78xez7a.com"
+  },
+  "file_hashes": {
+    "index.html": "a6af9250721b7d290111eb9172516c39bd8a1381cfce0ea13fa1459ff29f4b50",
+    "sitemap.xml": "07a8ea60c730143873e59bfec27f6d200722b823cabaadac97720e3a2383f8e8",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "417f8aec77a4cab6aeca5a171a8b0e954829d94e11eed97664dda92ab857251b",
+    "robots.txt": "fd09e167b53ad5987a6d792303587e111588345abab70d853906e3abc3412a79",
+    "a8539a8dd48f8af83c33dbb870290d7c.txt": "bda4be5fbf989684f1c1e0cb986877bde2a8e2d8aa2b3c905bcf5f5b0f4c8770"
+  },
+  "revision": "099c6a9a4ace5bbcc2b81de62bcc7e833b996fed5e24b2081e8fa73f06486b87"
+}
